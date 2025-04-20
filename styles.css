@@ -107,26 +107,22 @@
     font-size: 36px;
     margin-bottom: 20px;
     }
+    
     .about p {
-        font-size: 18px;
-        margin-bottom: 20px;
-        }
-        
-        .about-image {
-        max-width: 50%;
-        margin-right: 5%;
-        }
-        
-        .about-image img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 5px;
-        }dding-right: 50px;
-        color: #fff;
-        margin-left: 5%;g
-        dark-theme {
-            background-color: #070e16;
-            }
+    font-size: 18px;
+    margin-bottom: 20px;
+    }
+    
+    .about-image {
+    max-width: 50%;
+    margin-right: 5%;
+    }
+    
+    .about-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    }
             
             
             /* menu*/
