@@ -168,12 +168,7 @@
             color: #ffffff;
             }
             
-  .menu-item p {
-    font-size: 16px;
-    margin-bottom: 20px;
-    color: #ffffff;
-    }
-    .reservations {
+.reservations {
         background-color: #1f1f1f;
         padding: 80px 0;
         text-align: center;
@@ -217,7 +212,45 @@
         
         .reservation-form form button:hover {
         background-color: #e60000;
-        }  
+        } 
+        .testimonials {
+          padding: 80px 0;
+          text-align: center;
+          background-color: #070e16;
+          }
+          
+          .testimonials h2 {
+          font-size: 36px;
+          margin-bottom: 40px;
+          color: #fff;
+          }
+  .testimonial {
+    max-width: 600px;
+    margin: 0 auto 40px;
+    text-align: left;
+    }
+    
+    .testimonial img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    }
+    
+    .testimonial p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #fff;
+    }
+    
+    .testimonial h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    }
+        
+        
         .gallery {
             padding: 80px 0;
             text-align: center;
@@ -258,7 +291,45 @@
                     font-size: 36px;
                     margin-bottom: 40px;
                     }
-                    
+                    .info-item {
+                      margin: 0 20px;
+                      text-align: center;
+                      }
+                      
+                      .info-item i {
+                      font-size: 24px;
+                      margin-bottom: 10px;
+                      }
+                      
+                      .contact-form input,
+                      .contact-form textarea {
+                      display: block;
+                      width: 100%;
+                      padding: 10px;
+                      margin-bottom: 20px;
+                      border-radius: 5px;
+                      border: none;
+                      }
+                      
+                      .contact-form textarea {
+                      resize: vertical;
+                      }
+                      
+                      .contact-form button {
+                      display: inline-block;
+                      background-color: #ff0000;
+                      color: #fff;
+                      padding: 10px 20px;
+                      border-radius: 5px;
+                      text-decoration: none;
+                      font-weight: bold;
+                      transition: background-color 0.3s ease;
+                      }
+                      
+                      .contact-form button:hover {
+                      background-color: #e60000;
+                      }
+                        
                     .contact-info {
                     display: flex;
                     justify-content: center;
