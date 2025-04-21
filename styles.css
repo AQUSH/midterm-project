@@ -395,3 +395,16 @@ text-decoration: none;
 .footer-text {
 font-size: 14px;
 }
+/* Dessert Section */
+.desserts {
+  background-color: #1e130a;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.desserts h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #190c08;
+  font-family: 'Georgia', serif;
+}
